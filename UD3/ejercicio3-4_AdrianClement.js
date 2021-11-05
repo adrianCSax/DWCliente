@@ -102,7 +102,6 @@ function printMatrix(matrix, matrixName) {
     } else {
         document.write("<p>" + matrix + "</p>");
     }
-    
 }
 
 // Función que pide por pantalla las filas y columnas de una matriz y la crea
